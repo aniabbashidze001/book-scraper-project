@@ -15,7 +15,7 @@ This is a web scraping application which collects data from [BooksToScrape](http
 
 ### 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR-TEAM/book-scraper-project.git
+git clone https://github.com/aniabbashidze001/book-scraper-project.git
 cd book-scraper-project
 ```
 
